@@ -1,0 +1,1 @@
+if a device, such as card reader, support CEN or Wosa/xfs, handle it by that, and if the device can not support Xfs, use Company's SDK or Standard Com or Usb Port To make interactive.
